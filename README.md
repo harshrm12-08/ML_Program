@@ -1,2 +1,2 @@
-# SKILL_Edge_program
+# SKILL_Edge_Programs
 Data Analyst
